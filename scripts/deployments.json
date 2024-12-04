@@ -1,0 +1,12 @@
+{
+  "core_testnet": {
+    "BaseValidator": "0xf7fc7D2F238D3cf8EDD6409efA8BA28F6aebE19B",
+    "RewardValidator": "0x073C8C17a916EcE219056C141546bDbDD5131027",
+    "RewardTracking": "0x3c6eA3F9B8be63C209e914799632510069464BEE",
+    "ActivityTracker": "0xDED1775c51bbb2c195539599f07fD50a5d799E4a",
+    "RewardDistributor": "0x0494E484c068495029A9265F0E97A5D23Ac1FfAC",
+    "IdentityVerificationManager": "0x1af6159aB377f6d340cF62d602b95BbEc0165102",
+    "IdentiTokenConfig": "0x9d5d5a482Ef3bfd9B085c5165afE567Ff02ff5Bf",
+    "IdentiToken": "0x1944e80C2AB93146b4dd2Ea190aED293B9Da3301"
+  }
+}
